@@ -1,6 +1,22 @@
 # 🎬 MatchClipAnalyzer
 
-Aplicación web para análisis de videos deportivos usando visión por computadora.
+## 📥 Descarga directa (sin instalar nada)
+
+### Para Windows:
+[⬇️ Descargar MatchClipAnalyzer.zip](https://github.com/pedroservin97/MatchClipAnalyzer/releases/download/v1.0/MatchClipAnalyzer.zip)
+→ Descomprimir y ejecutar `MatchClipAnalyzer.exe`
+
+### Para Mac:
+[⬇️ Descargar MatchClipAnalyzer.dmg](https://github.com/pedroservin97/MatchClipAnalyzer/releases/download/v1.0/MatchClipAnalyzer.dmg)
+→ Abrir y arrastrar a Aplicaciones
+
+### Para desarrolladores (código fuente):
+```bash
+git clone https://github.com/pedroservin97/MatchClipAnalyzer.git
+cd MatchClipAnalyzer
+pip install -r requirements.txt
+streamlit run aplicacionfinal.py
+Aplicación para análisis de videos deportivos usando visión por computadora.
 
 ## 🚀 Instalación rápida
 
