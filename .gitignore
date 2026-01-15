@@ -1,0 +1,29 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/
+
+# Builds y distribuciones
+build/
+dist/
+*.spec
+MatchClipAnalyzer.app/
+*.exe
+
+# Binarios grandes (NO subir a GitHub)
+ffmpeg
+ffmpeg.exe
+*.dmg
+*.zip
+
+# Configuraciones locales
+*.mca
+config.json
+
+# Carpetas del programa (se crean automáticamente)
+Projects/
+Clips/
+Screenshots/
+Exports/
+Database/
