@@ -5,3 +5,13 @@ venv
 *.avi
 *.mov
 videos/
+# PyInstaller
+MatchClipAnalyzer.spec
+build/
+dist/
+*.exe
+
+# FFmpeg
+ffmpeg*
+
+
